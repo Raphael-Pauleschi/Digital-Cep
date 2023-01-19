@@ -17,7 +17,7 @@
             "Search":"src/"
         },
         "psr-4": {
-            "Raphael\\DigitalCep\\": "src/"
+            "Pauleschi\\DigitalCep\\": "src/"
         }
     }
 }
