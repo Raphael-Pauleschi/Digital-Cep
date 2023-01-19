@@ -1,0 +1,23 @@
+{
+    "name": "raphael/digital-cep",
+    "description": "Biblioteca para busca de cep",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "raphael-pauleschi",
+            "email": "raphael.f.pauleschi@gmail.com"
+        }
+    ],
+    "require": {
+        "php":">=7.2.0"
+    },
+    "autoload": {
+        "psr-0":{
+            "Search":"src/"
+        },
+        "psr-4": {
+            "Raphael\\DigitalCep\\": "src/"
+        }
+    }
+}
