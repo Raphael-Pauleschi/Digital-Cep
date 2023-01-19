@@ -4,7 +4,9 @@ require_once "vendor/autoload.php";
 
 $busca = new Search;
 $resultado = $busca->getAddressFromZipCode('01001000');
+print_r("O resultado:");
 print_r($resultado);
+
 
 
 ?>
