@@ -1,2 +1,5 @@
 # Ignore vendor
 /vendor
+
+#ignore vs code dependencies
+/.vscode
